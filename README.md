@@ -3,4 +3,4 @@ This AI Text Summarizer tool summarizes your text in 2-lined summarized, point w
 It provides the content using Groq AI.
 
 You can have a look to this tool.
-Kindly use this Groq API Key for test purposes :- <ins>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</ins>
+Kindly use a Groq API Key to use the tool
